@@ -38,7 +38,7 @@ img.right-align {
   text-align: right;
 }
 
-#nav {
+#nav a {
   padding: 0 10px;
   width180px;
   text-align: center;
