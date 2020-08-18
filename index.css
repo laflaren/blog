@@ -39,6 +39,7 @@ img.right-align {
 }
 
 #nav {
+  padding: 0 10px;
   width180px;
   text-align: center;
 }
