@@ -4,7 +4,6 @@ body {
   font-size: 18px;
 }
 
-@import url('https://fonts.fontself.com/gE309jx/gilbert-color-bold-preview5.css');
 
 #container {
   background-color: ;
@@ -22,9 +21,10 @@ a {
   text-align: center;
   font-size: 30px;
 }
+@import url('https://fonts.fontself.com/gE309jx/gilbert-color-bold-preview5.css');
 
 h1{
-  font-family: 'gilbert-color-bold-preview5';, Helvetica, Arial, sans-serif
+  font-family: 'gilbert-color-bold-preview5', Helvetica, Arial, sans-serif
 }
 
 #content {
