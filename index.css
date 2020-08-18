@@ -6,7 +6,7 @@ body {
 
 
 #container {
-  background-color: ;
+  background-color: black;
   width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -17,7 +17,7 @@ a {
 }
 #header {
   background-color: rgb(242, 242, 244);
-  color: white;
+  color: ;
   text-align: center;
   font-size: 24px;
 }
