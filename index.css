@@ -39,11 +39,12 @@ img.right-align {
 
 #nav a {
   padding: 0 10px;
-text-align: center;
+  text-align: center;
   width180px;
 }
 #nav {
   text-align: center;
+  background-color: rgb(242, 242, 244);
 }
 
 .selected {
