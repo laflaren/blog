@@ -15,7 +15,9 @@ a {
 #header {
   background-color: rgb(242, 242, 244);
   text-align: center;
-  
+  font-size: 24px;
+  position: sticky;
+  top: 0;
 
 }
 @import url('https://fonts.fontself.com/gE309jx/gilbert-color-bold-preview5.css');
