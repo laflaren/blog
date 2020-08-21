@@ -5,19 +5,18 @@ body {
 }
 #header img{
   max-width: 100%;
+  position: sticky;
+  top: 0;
 }
+
 a {
   text-decoration: none;
   color: red;  
 }
 #header {
   background-color: rgb(242, 242, 244);
-  color: ;
   text-align: center;
-  font-size: 24px;
-  header{
-  position: sticky;
-  top: 0;
+  
 
 }
 @import url('https://fonts.fontself.com/gE309jx/gilbert-color-bold-preview5.css');
