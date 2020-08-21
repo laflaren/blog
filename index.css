@@ -6,9 +6,9 @@ body {
 #header img{
   max-width: 100%;
 }
-  a {
+a {
   text-decoration: none;
-  color: green;  
+  color: grey;  
 }
 #header {
   background-color: rgb(242, 242, 244);
