@@ -64,6 +64,8 @@ img {
   background-color: rgb(242, 242, 244);
   color: white;
   text-align: right;
+  width: 100%;
+  bottom: 0;
 }
 
 .center {
