@@ -1,3 +1,6 @@
+.intro {
+  margin-left: 40px; }
+
 body {
   color: black);
   font-family: Helvetica, Arial, sans-serif;
@@ -18,6 +21,7 @@ a {
   text-align: center;
   font-size: 24px;
 }
+
 
 h1{
   font-family: 'gilbert-color-bold-preview5', Helvetica, Arial, sans-serif
