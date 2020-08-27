@@ -82,15 +82,13 @@ img {
   display: table;
   clear: both;
   max-width: 50%;
-
 }
-
-}
+  
 #footer{
   clear: both;
   background-color: rgb(242, 242, 244);
   color: white;
-  text-align: right;
+  text-align: center;
   width: 100%;
   bottom: 0;
 }
