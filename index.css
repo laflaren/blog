@@ -67,8 +67,12 @@ img {
     padding: 40px;
   }
   
-.column {
+.columnleft {
   float: left;
+  width: 100%;
+    
+.columnright {
+  float: right;
   width: 100%;
   
 }
