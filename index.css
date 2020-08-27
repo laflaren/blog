@@ -69,11 +69,11 @@ img {
   
 .columnleft {
   float: left;
-  width: 100%;
+  width: 48%;
     
 .columnright {
   float: right;
-  width: 100%;
+  width: 48%;
   
 }
 /* notes */
