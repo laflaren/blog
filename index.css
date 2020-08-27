@@ -71,7 +71,7 @@ img {
   float: left;
   max-width: 50%;
 }
-/* Clear floats after the columns */
+/* notes */
 .row:after {
   content: "";
   display: table;
@@ -84,7 +84,7 @@ img {
 #footer{
   clear: both;
   background-color: rgb(242, 242, 244);
-  color: black;
+  color: white;
   text-align: right;
   width: 100%;
   bottom: 0;
