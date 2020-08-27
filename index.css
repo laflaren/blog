@@ -69,7 +69,8 @@ img {
   
 .column {
   float: left;
-  max-width: 50%;
+  width: 100%;
+  
 }
 /* notes */
 .row:after {
