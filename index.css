@@ -10,18 +10,22 @@ body {
 #header img{
   max-width: 100%;
   z-index: 10;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#header {
+  background-color: rgb(242, 242, 244);
+  text-align: center;
+  font-size: 24px;
+  height: 40%;
 }
 
 a {
   text-decoration: none;
   color: green;  
 }
-#header {
-  background-color: rgb(242, 242, 244);
-  text-align: center;
-  font-size: 24px;
-}
-
 
 h1{
   font-family: 'gilbert-color-bold-preview5', Helvetica, Arial, sans-serif
