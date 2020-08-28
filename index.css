@@ -1,7 +1,7 @@
 /* notes */
 
 .intro {
-  margin-left: 30px; 
+  margin-left: 30px;
 }
 
 body {
@@ -16,8 +16,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  transition: all 2s ease 2s;
-  padding-bottom:20px;
+  padding: 0 20px;
 }
 
 #header {
@@ -29,7 +28,7 @@ body {
 
 a {
   text-decoration: none;
-  color: green;  
+  color: green;
 }
 
 h1{
@@ -69,10 +68,9 @@ img.right-align {
 }
 
 img {
-    float: right;
-    padding: 40px;
+    padding: 20px;
   }
-  
+
 .columnleft {
   float: left;
   width: 50%;
@@ -106,7 +104,7 @@ img {
   clear: both;
   max-width: 50%;
 }
-  
+
 #footer{
   clear: both;
   background-color: rgb(242, 242, 244);
