@@ -73,12 +73,12 @@ img {
   
 .columnleft {
   float: left;
-  width: 48%;
+  width: 48vw;
 }
 
 .columnright {
   float: right;
-  width: 48%; 
+  width: 48vw;
 }
 
 .row:after {
