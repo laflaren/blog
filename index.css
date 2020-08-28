@@ -73,13 +73,13 @@ img {
   
 .columnleft {
   float: left;
-  width: 50vw;
+  width: 50%;
   text-align: right;
 }
 
 .columnright {
   float: right;
-  width: 50vw;
+  width: 50%;
   text-align: left;
 }
 
