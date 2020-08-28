@@ -83,14 +83,14 @@ img {
   text-align: left;
 }
 
-.columnnright img {
+.columnright img {
   float: none;
   max-width: 30vw;
   text-align: right;
   padding: 10px;
 }
 
-.columnnleft img {
+.columnleft img {
   float: none;
   max-width: 35vw;
   text-align: right;
