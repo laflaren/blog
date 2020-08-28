@@ -31,7 +31,7 @@ a {
 }
 
 h1{
-  font-family: 'gilbert-color-bold-preview5', Helvetica, Arial, sans-serif
+  font-family: 'gilbert-color-bold-preview5', Helvetica, Arial, sans-serif;
 }
 
 #content {
@@ -73,13 +73,30 @@ img {
   
 .columnleft {
   float: left;
-  width: 48vw;
+  width: 50vw;
+  text-align: right;
 }
 
 .columnright {
   float: right;
-  width: 48vw;
+  width: 50vw;
+  text-align: left;
 }
+
+.columnnright img {
+  float: none;
+  max-width: 30vw;
+  text-align: right;
+  padding: 10px;
+}
+
+.columnnleft img {
+  float: none;
+  max-width: 30vw;
+  text-align: right;
+  padding: 10px;
+}
+
 
 .row:after {
   content: "";
