@@ -1,7 +1,11 @@
 /* notes */
 
+.content {
+  padding: 0 20px;
+}
+
 .intro {
-  margin-left: 30px;
+  /* margin-left: 30px; */
 }
 
 body {
