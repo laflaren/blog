@@ -89,14 +89,14 @@ img {
 
 .columnright img {
   float: none;
-  max-width: 45vw;
+  max-width: 40vw;
   text-align: right;
   padding: 10px;
 }
 
 .columnleft img {
   float: none;
-  max-width: 45vw;
+  max-width: 40vw;
   text-align: right;
   padding: 10px;
 }
