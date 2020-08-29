@@ -1,4 +1,4 @@
-/* notes */
+/* hello, thanks for looking at my code. You're welcome to leave compliments or suggestions through our Github accounts. Feedback is appreciated!  */
 
 .content {
   padding: 0 20px;
@@ -20,7 +20,6 @@ header img{
   position: fixed;
   top: 0;
   left: 0;
-  padding: 0 20px;
 }
 
 header {
@@ -116,6 +115,7 @@ footer{
   text-align: center;
   width: 100%;
   bottom: 0;
+  position: sticky 
 }
 
 .center {
