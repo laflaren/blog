@@ -8,6 +8,7 @@
   left: 50%;
   position: absolute;
   transform: translateY(-100%);
+  text-color: white;
 }
 
 .intro {
