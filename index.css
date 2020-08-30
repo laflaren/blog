@@ -73,6 +73,7 @@ img.right-align {
 
 img {
     padding: 20px;
+  max-width: 100%;
   }
 
 .columnleft {
