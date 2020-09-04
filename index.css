@@ -14,19 +14,8 @@
   transition: transform 0.3s;
 }
 
-.main-content:focus  {
+.main-content:focus {
   transform: translateY(0%);
-}
-
-aside {
-  font: bold 12px Sans-Serif;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  background: #369;
-  color: #fff;
-  padding: 5px 10px;
-  margin: 0 0 10px 0;
-  line-height: 24px;
 }
 
 body {
