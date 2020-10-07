@@ -42,7 +42,7 @@ header {
 
 a {
   text-decoration: none;
-  color: green;
+  color: rgb(64, 64, 64);
 }
 
 h1{
@@ -68,7 +68,7 @@ img.right-align {
 
 #nav {
   text-align: center;
-  background-color: rgb(242, 242, 244);
+  background-color: rgb(252, 252, 252);
   padding-bottom: 10px;
 }
 
