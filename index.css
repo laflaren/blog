@@ -59,6 +59,7 @@ img.right-align {
   margin-right: inherit;
   text-align: right;
   padding: 40px;
+  border-radius: 75px;
 }
 
 #nav a {
