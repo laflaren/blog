@@ -53,6 +53,32 @@ h1{
   padding: 10px;
 }
 
+
+.writing {
+    margin: 0;
+    padding: .3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.writing > h1,
+.travel-writing {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+.travel-writing {
+    background: right/contain content-box border-box no-repeat
+        url('/media/examples/rain.svg') white;
+}
+
+.travel-writing > h2,
+.travel-writing > p {
+    margin: .2rem;
+    font-size: 1rem;
+}
+
 img.right-align {
   display: block;
   margin-left: auto;
