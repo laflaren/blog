@@ -1,4 +1,4 @@
-<script>
+
   
   
 ar x = blue; 
@@ -22,4 +22,3 @@ function moveOn(){
   
 alert("Thanks for your input!");  
   
-</script>
