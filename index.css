@@ -1,4 +1,7 @@
 /* hello, thanks for looking at my code, and website that I built for the first time from scratch... You're welcome to leave comments or suggestions through our Github accounts. Feedback is appreciated!  */
+html{
+  height: 100%;
+}
 
 .content {
   padding: 0 20px;
@@ -22,6 +25,7 @@ body {
   color: rgb(64, 64, 64);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
+  height: 100%;
 }
 
 header img{
