@@ -10,7 +10,7 @@ html{
 .main-content {
   background: #e77e23;
   height: 30px;
-  left: 50%;
+  left: 0%;
   padding: 8px;
   position: absolute;
   transform: translateY(-100%);
