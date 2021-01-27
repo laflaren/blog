@@ -32,9 +32,10 @@ html{
   transition: transform 0.3s;
 }
 
-.main-content:focus {
-  transform: translateY(0%);
+.skip-to-content:focus {
+  transform: translateY(0);
 }
+
 
 body {
   color: rgb(64, 64, 64);
