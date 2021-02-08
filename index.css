@@ -93,12 +93,6 @@ h1{
         url('/media/examples/rain.svg') white;
 }
 
-.travel-writing > h2,
-.travel-writing > p {
-    margin: .2rem;
-    font-size: 1rem;
-}
-
 img.right-align {
   display: block;
   margin-left: auto;
