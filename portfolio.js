@@ -1,9 +1,11 @@
+console.log("js loaded");
+
 // select all elements 
-const form = document.querySelector('#new-item-form')
+const form = document.querySelector('#new-item-form');
 
-const list = document.querySelector('#list')
+const list = document.querySelector('#list');
 
-const input = document.querySelector('#item-input')
+const input = document.querySelector('#item-input');
 
 
 
@@ -15,22 +17,21 @@ form.addEventListener('submit', e => {
 
 
 
-// create new item 
+    // create new item 
 
-const item = document.createElement('div')
-item.innerText = input.value
-item.classList.add('list-item')
+    const item = document.createElement('div');
+    item.innerText = input.value;
+    item.classList.add('list-item');
 
-// add item to list 
-list.appendChild(item)
+    // add item to list 
+    list.appendChild(item);
 
 
-// clear input
-input.value = ""
+    // clear input
+    input.value = "";
 
-// setup event listened to delete item when clicked.
-item.addEventListener('click', () => {
-    item.remove()
-})
-
-})
+    // setup event listened to delete item when clicked.
+    item.addEventListener('click', () => {
+        item.remove()
+    });
+});
