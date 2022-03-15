@@ -1,2 +1,2 @@
 # laflaren.github.io
-This is a portfolio. 
+This is a HTML / CSS portfolio. 
