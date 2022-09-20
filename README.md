@@ -1,2 +1,2 @@
-# laflaren.github.io
-This is a HTML / CSS portfolio. 
+# laflaren.github.io/blog
+This is a blog made with CSS and HTML. 
